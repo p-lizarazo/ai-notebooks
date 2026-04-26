@@ -1,0 +1,11 @@
+[project]
+name = "number-image-detection"
+version = "0.1.0"
+description = "Number image detection with MNIST"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets",
+    "ipykernel>=7.2.0",
+    "numpy>=2.4.4",
+    "pillow>=12.2.0",
+]
